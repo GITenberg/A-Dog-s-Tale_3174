@@ -1,0 +1,41 @@
+_repo: A-Dog-s-Tale_3174
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3174/3174-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "\"A Dog's Tale\" is a short story written by Mark Twain. It first appeared\
+  \ in the December 1903 issue of Harper's Magazine. In January of the following year\
+  \ it was extracted into a stand-alone pamphlet published for the National Anti-Vivisection\
+  \ Society. Still later in 1904 it was expanded into a book published by Harper &\
+  \ Brothers.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3174'
+  wikidata: Q4656534
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Dog's Tale
+url: http://www.gutenberg.org/ebooks/3174
+wikipedia:
+- https://ka.wikipedia.org/wiki/%E1%83%AB%E1%83%90%E1%83%A6%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%9C%E1%83%90%E1%83%90%E1%83%9B%E1%83%91%E1%83%9D%E1%83%91%E1%83%98
+- https://en.wikipedia.org/wiki/A_Dog%27s_Tale
