@@ -1,10 +1,8 @@
 _repo: A-Dog-s-Tale_3174
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 3174/3174-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3174-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -21,6 +19,8 @@ description: "\"A Dog's Tale\" is a short story written by Mark Twain. It first 
   \ it was extracted into a stand-alone pamphlet published for the National Anti-Vivisection\
   \ Society. Still later in 1904 it was expanded into a book published by Harper &\
   \ Brothers.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3174#A-Dog-s-Tale
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
